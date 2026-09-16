@@ -70,6 +70,7 @@ F;em-nav\egvv-tacan-airways.lairway
 F;em-nav\egvv-low-airways.lairway
 
 [HIGH AIRWAY]
+F;em-nav\egvv-tacan-airways.hairway
 F;em-nav\egvv-high-airways.hairway
 
 [ARTCC HIGH]
