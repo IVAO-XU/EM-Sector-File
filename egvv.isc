@@ -66,6 +66,7 @@ F;em-nav\egvv-foreign-vor.vor
 F;em-nav\egvv-military-tacan.vor
 
 [LOW AIRWAY]
+F;em-nav\egvv-tacan-airways.lairway
 F;em-nav\egvv-low-airways.lairway
 
 [HIGH AIRWAY]
